@@ -6,6 +6,7 @@ const Layout = styled.section`
   min-height: 100vh;
   background: ${(props) => props.theme.colours.secondaryDark};
   color: ${(props) => props.theme.colours.backgroundLight};
+  margin-bottom: 40px;
 `;
 
 const Heading = styled.h2`
@@ -36,8 +37,8 @@ export default function About() {
       <TextContainer>
         <h3>Motivation</h3>
         <Paragraph>
-          I'm Steven Williams; a current student at Northcoders undergoing their
-          developer pathway. Having spent 12 years working in the print industry
+          I'm Steven Williams, I graduated from the Northcoders developer pathway on 05/03/2021.
+          Having spent 12 years working in the print industry
           I had achieved all the goals I set out to and felt ready for a new
           challenge. I decided to leave the industry and began working as a
           police constable, whilst in my spare time I began learning to code via
@@ -58,7 +59,7 @@ export default function About() {
         <h3>Interests</h3>
         <Paragraph>
           Currently learning new software development skills is my main interest.
-          I've really enjoyed my bootcamp journey so far, I have learned many
+          I've really enjoyed my journey so far, I have learned many
           new technologies and find it very rewarding when they click
           and I'm able to build something from scratch. I've particularly
           enjoyed learning Express, Knex and React.

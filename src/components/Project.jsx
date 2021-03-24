@@ -18,6 +18,7 @@ const ProjectImageWrapper = styled.div`
 `;
 const ProjectImage = styled.img`
   width: 80%;
+  height: auto;
   max-width: 400px;
   margin: 0 auto;
   display: block;
