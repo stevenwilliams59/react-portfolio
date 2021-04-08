@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.fdaa7b7d.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.1d515637.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.1d515637.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.fa67865b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.fa67865b.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.7686de59.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7686de59.js.map",
     "static/js/2.6f91cab2.chunk.js": "/react-portfolio/static/js/2.6f91cab2.chunk.js",
@@ -13,12 +13,13 @@
     "static/media/card.f148e4bb.jpg": "/react-portfolio/static/media/card.f148e4bb.jpg",
     "static/media/hero.7ebb4b59.jpg": "/react-portfolio/static/media/hero.7ebb4b59.jpg",
     "static/media/nc-news-front.6d8a4637.jpg": "/react-portfolio/static/media/nc-news-front.6d8a4637.jpg",
-    "static/media/nc-news.bc49f019.png": "/react-portfolio/static/media/nc-news.bc49f019.png"
+    "static/media/nc-news.bc49f019.png": "/react-portfolio/static/media/nc-news.bc49f019.png",
+    "static/media/sudoku.d277b64d.png": "/react-portfolio/static/media/sudoku.d277b64d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7686de59.js",
     "static/js/2.6f91cab2.chunk.js",
     "static/css/main.fdaa7b7d.chunk.css",
-    "static/js/main.1d515637.chunk.js"
+    "static/js/main.fa67865b.chunk.js"
   ]
 }
